@@ -1,0 +1,121 @@
+ .header{
+    background-color: aqua;
+}
+.bar{
+    position: relative;
+    bottom: 100px 0;
+    margin-left: 120vh;
+    bottom: 5vh;
+}
+.menulist{
+    display: flex;
+    list-style: none;
+}
+h1{
+    color: black;
+}
+li{
+    margin-left: 15px;
+}
+nav{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+.section{
+    padding: 100px 0;
+}
+.omaro{
+    background-color: darkcyan;
+    color: black;
+}
+
+h2{
+    color: black;
+}
+p{
+    color: black;
+}
+.boxed{
+    max-width: 1280px;
+    margin-inline: auto;
+}
+.ons img{
+    width: 150px;
+}
+
+
+.nianee{
+    background-color: blue;
+    color: white;
+}
+.text-center{
+    text-align: center;
+}
+.groupe{
+    
+    list-style: none;
+}
+
+.W30{
+    width: 30%;
+}
+.W60{
+    width: 60%;
+}
+h3{
+    margin-top: 10px;
+}
+.w25{
+    width: 25%;
+}
+.skill{
+background: white;
+border-radius: 15px;
+padding: 20px;
+box-sizing: border-box;
+}
+.skill img{
+width: 100px;
+}
+.w32{
+    width: 32%;
+}
+.space-between{
+    justify-content: space-between;
+}
+fieldset{
+    bottom: 25px;
+    margin: 10px;
+    width: 60vh;
+    background-color: aqua;
+    margin-left: 320px;
+}
+.fiel{
+    background-color: white;
+}
+button{
+    margin-left: 350px;
+    background-color: blue;
+    height: 25px;
+    color: white;
+}
+#nom {
+    width: 70vh;
+    height: 20px;
+}
+#email{
+    width: 70vh;
+    height: 20px;
+}
+#message {
+    width: 70vh;
+    height: 50px;
+}
+footer{
+    background-color: aqua;
+}
